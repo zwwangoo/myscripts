@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Config:
-# alias dlogs="bash $HOME/.myscript/docker_logs_by_name.sh"
+# alias dlogs="bash $HOME/.myscripts/docker_logs_by_name.sh"
 
 # Usage:
 # dlog redis

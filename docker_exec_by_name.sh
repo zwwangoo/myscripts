@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Config:
-# alias dexec="bash $HOME/.myscript/docker_exec_by_name.sh"
+# alias dexec="bash $HOME/.myscripts/docker_exec_by_name.sh"
 
 # Usage:
 # dexec redis
